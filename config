@@ -1,0 +1,13 @@
+{
+ "Version": "1",
+ "ReleaseNotes": "",
+ "Servers": [
+  {
+   "serverType": 3,
+   "Name": "v2",
+   "FLAG": "br",
+   "sInfo": "aaaa",
+   "v2rayJson": "config"
+  }
+ ]
+}
